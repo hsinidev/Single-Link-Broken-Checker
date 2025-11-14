@@ -1,0 +1,5 @@
+{
+  "name": "Single-Link Broken Checker",
+  "description": "A modern, SEO-focused tool to check the status of a single URL. It uses a simulated server-side HEAD request to determine the HTTP status code (200, 404, 500), displaying the final status and response time with a clean, diagnostic-themed UI.",
+  "requestFramePermissions": []
+}
